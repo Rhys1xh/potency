@@ -1,0 +1,2 @@
+# potency
+potent.
